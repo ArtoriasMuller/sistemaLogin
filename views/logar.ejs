@@ -1,0 +1,33 @@
+<h1>Pagina de login</h1>
+
+<form method="POST" action="/usuario" enctype="multipart/form-data">
+  
+  <div>
+    <label> Email </label>
+    <input type="text" name="email" value="<%= locals.oldData ? oldData.name : null %>">
+
+    <% if(locals.errors && errors.email){ %>  
+      <div class="danger"><%= errors.email.msg %>
+      </div>
+    <% } %>
+
+  </div>
+  <div>
+    <label> senha </label>
+    <input type="password" name="psw">
+
+    <% if(locals.errors && errors.psw){ %>  
+      <div class="danger"><%= errors.psw.msg %>
+      </div>
+    <% } %>
+
+  
+
+  </div>
+
+  <button> Fazer Login </button>
+
+
+
+
+</form>

@@ -1,20 +1,44 @@
 [
-    {
-    "id" : 1,
-    "fullname": "Igor Muller",
-    "email": "muller.igor@icloud.com",
-    "password": "123456",
-    "country": "Brasil",
-    "avatar": "default.png"
-    },
-
-    {
-    "id" : 2,
-    "fullname": "Teste da silva",
-    "email": "teste.pi@icloud.com",
-    "password": "123456",
-    "country": "Brasil",
-    "avatar": "default.png"
-    }
-        
+ {
+  "id": 1,
+  "name": "joao",
+  "email": "joao@dh.com.br",
+  "psw": "$2b$10$AdGjQ0VJUTx7w1hNILwtGOKbr4NmxJNV5BfiPOQP64lZKIzx.9Ywu",
+  "avatar": "1653949813215.jpg"
+ },
+ {
+  "id": 2,
+  "name": "alberto",
+  "email": "alberto@dh.com.br",
+  "psw": "$2b$10$Edg2hX8wtYcFabROYF670ufiZxTnUKsCyh38Od0XcvT5ntE9kMoz.",
+  "avatar": "1653950394287.jpg"
+ },
+ {
+  "id": 3,
+  "name": "eduardo",
+  "email": "eduardo@dh.com.br",
+  "psw": "$2b$10$LI0xicJs8WnzcZ3BfcjdJOouJHZS3ojs0spNtHb49Uh0bFSdYT5Nq",
+  "avatar": "1653950469019.jpg"
+ },
+ {
+  "id": 4,
+  "name": "igor",
+  "email": "igor@dh.com.br",
+  "psw": "$2b$10$dSOaakacS4i5CGj25aZGFuWdeWUpvoSrIoRa8f1ot9/KyQ5PwyHNS",
+  "avatar": "1653950601282.jpg"
+ },
+ {
+  "id": 5,
+  "name": "aposjdaosi",
+  "email": "jaljdsa@hotmail.com",
+  "psw": "$2b$10$GV78g9RiADjZo8I/1ZU4Le7ZMJQTF4kz0GGK5uq6aMr8XXGtVAaVC",
+  "avatar": "1653952030964.jpg"
+ },
+ {
+  "id": 6,
+  "name": "asdfds",
+  "email": "asdfds@hotmail.com",
+  "psw": "$2b$10$hySEydAdh0MfaZgfrZYEouagIpDTwU9oPZ1NDO9Gh8uu.R3Ofn.x2",
+  "avatar": "1653952507687.jpg"
+ }
 ]
