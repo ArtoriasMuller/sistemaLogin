@@ -1,0 +1,20 @@
+[
+    {
+    "id" : 1,
+    "fullname": "Igor Muller",
+    "email": "muller.igor@icloud.com",
+    "password": "123456",
+    "country": "Brasil",
+    "avatar": "default.png"
+    },
+
+    {
+    "id" : 2,
+    "fullname": "Teste da silva",
+    "email": "teste.pi@icloud.com",
+    "password": "123456",
+    "country": "Brasil",
+    "avatar": "default.png"
+    }
+        
+]
